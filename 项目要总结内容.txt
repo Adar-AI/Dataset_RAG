@@ -1,0 +1,21 @@
+
+
+  1. rag的概念和理解 【面试】
+  2. rag的宏观步骤   【和项目无关】
+  3. 项目的rag的步骤 【项目关联】
+  4. 5点保证召回准确的内容
+  5. 回忆项目中使用的核心技术栈
+      rag思路 ， 多路召回 ， langchain , langgraph
+      大模型（大语言模型,embedding,rerank,vlm多模态模型）
+      第三方工具： milvus / minio / mongodb / openai mcp / bailian / minerU
+      https://milvus.io/docs/zh/overview.md
+      https://www.mongodb.com/zh-cn/docs/manual/tutorial/insert-documents/
+      https://www.modelscope.cn/models/BAAI/bge-reranker-large/summary
+      https://openai.github.io/openai-agents-python/mcp/#2-streamable-http-mcp-servers
+      https://www.minio.org.cn/docs/minio/linux/developers/python/API.html
+      https://mineru.net/apiManage/token
+  6. 项目节点 + 节点的步骤 
+  
+
+
+

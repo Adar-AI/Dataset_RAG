@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Dataset_RAG 项目专属（默认模板之外）---
+.env
+logs/
+output/
+doc/
+.idea/
+.vscode/
